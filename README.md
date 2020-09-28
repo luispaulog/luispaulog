@@ -6,5 +6,5 @@
 
 ### Sobre Mim
 👨‍🎓 &nbsp; Curso Análise e Desenvolvimento de Sistemas na FACIT. 
-<br/> 💬 &nbsp; Curto tecnologias, games (Don't Starve Together, Legends of Runeterra) e seriados no Netflix
-<br/> 👨🏼‍🏫 &nbsp; Possuo certificação/experiência nas seguintes linguagens de programação; Python, Flutter, Dart.
+<br/>💬 &nbsp; Curto tecnologias, games (Don't Starve Together, Legends of Runeterra) e seriados no Netflix
+<br/>👨🏼‍🏫 &nbsp; Possuo certificação/experiência nas seguintes linguagens de programação; Python, Flutter, Dart.
